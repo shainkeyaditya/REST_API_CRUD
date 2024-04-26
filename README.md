@@ -6,10 +6,11 @@ Python
 Flask
 
 ## Installation and Usage
-install python
-First need to create virtual env then activate virtual env
-pip install -r requirements.txt
-Run the app.py file with Python: flask run
-
+1- install python
+2- First need to create virtual env then activate virtual env
+3- pip install -r requirements.txt
+4- Run the app.py file with Python: flask run
+5- Run the test cases using: pytest
+6- Finally, open the following address in your web browser: http://localhost:5000   or http://127.0.0.1:5000
 
 
