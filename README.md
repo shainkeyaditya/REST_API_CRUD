@@ -2,7 +2,7 @@
 This project is related to create CRUD operation using python
 
 ## Built with
-Python
+Python 3.6+
 Flask
 
 ## Installation and Usage
@@ -19,5 +19,4 @@ Flask
 3. POST /emp: Create a new employee.
 4. PUT /emp/{id}: Update an existing employee by EmpNo.
 5. DELETE /emp/{id}: Delete an employee by EmpNo.
-
 
